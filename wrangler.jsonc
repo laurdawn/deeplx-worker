@@ -3,6 +3,7 @@
   "name": "deeplx-worker",
   "main": "src/index.ts",
   "compatibility_date": "2026-04-01",
+  "workers_dev": false,
   "assets": {
     "directory": "public",
     "not_found_handling": "404-page",
